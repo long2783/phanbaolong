@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace blong.models
 {
     internal class user
-    {
+    {public int ID { get; set; }
     }
 }
